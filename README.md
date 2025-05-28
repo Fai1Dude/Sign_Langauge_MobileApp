@@ -8,7 +8,7 @@ The project demonstrates:
 * Instant text‑to‑avatar translation using Rive animations.
 * Location picker & emergency short‑cuts.
 * Modern Flutter 3.22 setup (Material 3, null‑safety) with Kotlin DSL Gradle files.
-### There's also apk file that can be downloaded into android device to see the program directly
+### There's also apk file that can be downloaded into android device to see the program directly named (Eshara.apk) you can see it on the main repo no need for entering folders
 ---
 
 ## 📂 Project structure
